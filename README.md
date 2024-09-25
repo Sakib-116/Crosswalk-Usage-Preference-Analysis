@@ -37,7 +37,7 @@ The dataset used contains the following variables:
 
 Analysis Steps
 1. **Label Encoding**: 
-   - The Likert-scale variables are encoded from a 5-point scale (1-5) to a 0-4 scale.
+   - The Likert-scale variables are encoded as a 5-point scale (1-5).
    - The `Preference` variable is encoded as `0` for 'Yes' and `1` for 'No', with 'No' being the primary focus of the analysis.
 
 2. **Descriptive Statistics**: 
